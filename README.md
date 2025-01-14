@@ -1,4 +1,4 @@
-Aspiring Ph.D. student who wants to make an impact on people and contribute to knowledge.
+Aspiring Ph.D. student who wants to make an impact on people's lives and contribute to the world.
 
 <!--
 **damiandobrowolski13/damiandobrowolski13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
