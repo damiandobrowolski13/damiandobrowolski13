@@ -1,4 +1,8 @@
-Aspiring Ph.D. student who wants to make an impact on people's lives and contribute to the world.
+Exploring the intersection of computer science, philosophy, linguistics, & design to create efficient, effective, connective, & aesthetic tech:
+
+With experience developing modern & creative digital humanities web projects as a software dev, supporting SaaS product launches at a startup in product management, evaluating AI LLMs, crafting stories as a journalist, managing budgets on a Fiscal Committee, & years of capturing images, art appreciation, making music, & speaking five languages, I draw on a wealth of skills & knowledge to inform my at-once technical & creative process.
+
+Harnessing this into my passion for programming & digital creation, I strive to create software that follows the principles of logic, efficacy, & design I’ve learned along the way.
 
 <!--
 **damiandobrowolski13/damiandobrowolski13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
